@@ -1,3 +1,14 @@
+Two-Way Data Binding
+Components
+Directives
+Services
+Dependency Injection
+Routing
+Forms
+HTTP Client
+Pipes
+Testing
+
 # Angular18app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
